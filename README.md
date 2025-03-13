@@ -14,16 +14,49 @@
    - [Тест 1](Lecture_1/Test_1_Link.md)
 
 2. **Лекция 2: Методология ML**
-   - [Лекция 2](Lecture_2/Lecture_2.ipynb)
-   - [Тест 2](Lecture_2/Test_2_Link.md)
+   - [Лекция 2](Лекция_2_Методология_ML.ipynb)
+   - [Тест 2]([Lecture_2/Test_2_Link.md](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
 
 3. **Лекция 3: Метрические методы**
-   - [Лекция 3](Lecture_1/Lecture_1.ipynb)
+   - [Лекция 3](Лекция_3_Метрические_методы.ipynb)
    - [Тест 3](Lecture_1/Test_1_Link.md)
   
 4. **Лекция 4: Линейные методы**
-   - [Лекция 4](Lecture_1/Lecture_1.ipynb)
-   - [Тест 4]([Lecture_1/Test_1_Link.md](https://docs.google.com/forms/d/1T8SmU31jlwmB_utW-vY122qJILNVQtj-aRpdFC3X2ws/edit))
+   - [Лекция 4](Лекция_4_Линейные_модели.ipynb)
+   - [Тест 4](https://docs.google.com/forms/d/e/1FAIpQLSdfQ7WiM2I-10dmd44vZ200kHnr2kH6LK4p8zyHSwVM0Tzn7A/viewform?usp=header)
+  
+5. **Лекция 5: Линейные методы**
+   - [Лекция 5](Лекция_5_Ядерные_методы_машинного_обучения.ipynb)
+   - [Тест 5]()
+
+6. **Лекция 6: Линейные методы**
+   - [Лекция 6](Лекция_6_Решающие_деревья.ipynb)
+   - [Тест 6]()
+  
+7. **Лекция 7: Линейные методы**
+   - [Лекция 7](Лекция_7_Ансамблевые_алгоритмы_машинного_обучения.ipynb)
+   - [Тест 7]()
+  
+8. **Лекция 8: Линейные методы**
+   - [Лекция 8](Лекция_8_Метрики_качества.ipynb)
+   - [Тест 8]()
+  
+9. **Лекция 9: Линейные методы**
+   - [Лекция 9](Лекция_9_Снижение_размерности_данных.ipynb)
+   - [Тест 9](https://docs.google.com/forms/d/e/1FAIpQLSdhzSoo-MJMe37EEyOezf7UN0IWFHpJv99VFWthyv2ijRwekg/viewform?usp=header)
+
+10. **Лекция 10: Линейные методы**
+   - [Лекция 10](Лекция_10_Задача_кластеризации.ipynb)
+   - [Тест 10](https://docs.google.com/forms/d/e/1FAIpQLSeDzsF6d154YafdHkZel18q9X8_QwgCwuxyOUIqTgXCYLatbA/viewform?usp=header)
+  
+11. **Лекция 11: Линейные методы**
+   - [Лекция 11](Лекция_11_Рекомендательные_системы.ipynb)
+   - [Тест 11](https://docs.google.com/forms/d/e/1FAIpQLScSl6m8339VMfG3JNw-VMrTX6ZTTUX7xI_Efij6fJEFdFhzUw/viewform?usp=header)
+  
+12. **Лекция 12: Линейные методы**
+   - [Лекция 12](Лекция_12_Нейронные_сети.ipynb)
+   - [Тест 12]()
+
 
 ## Как использовать курс
 1. Откройте лекцию в Google Colab, нажав на ссылку.
