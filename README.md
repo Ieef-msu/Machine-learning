@@ -46,8 +46,8 @@
    - [Тест 9](https://docs.google.com/forms/d/e/1FAIpQLSdhzSoo-MJMe37EEyOezf7UN0IWFHpJv99VFWthyv2ijRwekg/viewform?usp=header)
 
 10. **Лекция 10: Линейные методы**
-   - [Лекция 10](Лекция_10_Задача_кластеризации.ipynb)
-   - [Тест 10](https://docs.google.com/forms/d/e/1FAIpQLSeDzsF6d154YafdHkZel18q9X8_QwgCwuxyOUIqTgXCYLatbA/viewform?usp=header)
+      - [Лекция 10](Лекция_10_Задача_кластеризации.ipynb)
+      - [Тест 10](https://docs.google.com/forms/d/e/1FAIpQLSeDzsF6d154YafdHkZel18q9X8_QwgCwuxyOUIqTgXCYLatbA/viewform?usp=header)
   
 11. **Лекция 11: Линейные методы**
    - [Лекция 11](Лекция_11_Рекомендательные_системы.ipynb)
