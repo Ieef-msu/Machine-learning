@@ -15,7 +15,7 @@
 
 2. **Лекция 2: Методология ML**
    - [Лекция 2](Лекция_2_Методология_ML.ipynb)
-   - [Тест 2]([Lecture_2/Test_2_Link.md](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
+   - [Тест 2](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
 
 3. **Лекция 3: Метрические методы**
    - [Лекция 3](Лекция_3_Метрические_методы.ipynb)
