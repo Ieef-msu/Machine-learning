@@ -13,11 +13,17 @@
    - [Лекция 1](Lecture_1/Lecture_1.ipynb)
    - [Тест 1](Lecture_1/Test_1_Link.md)
 
-2. **Лекция 2: Линейная регрессия**
+2. **Лекция 2: Методология ML**
    - [Лекция 2](Lecture_2/Lecture_2.ipynb)
    - [Тест 2](Lecture_2/Test_2_Link.md)
 
-...
+3. **Лекция 3: Метрические методы**
+   - [Лекция 3](Lecture_1/Lecture_1.ipynb)
+   - [Тест 3](Lecture_1/Test_1_Link.md)
+  
+4. **Лекция 4: Линейные методы**
+   - [Лекция 4](Lecture_1/Lecture_1.ipynb)
+   - [Тест 4]([Lecture_1/Test_1_Link.md](https://docs.google.com/forms/d/1T8SmU31jlwmB_utW-vY122qJILNVQtj-aRpdFC3X2ws/edit))
 
 ## Как использовать курс
 1. Откройте лекцию в Google Colab, нажав на ссылку.
